@@ -65,7 +65,7 @@
     "feathers-authentication": "^1.0.0",
     "feathers-authentication-jwt": "^0.3.0",
     "feathers-memory": "^1.0.1",
-    "feathers-rest": "^1.5.2",
+    "feathers-rest": "^1.7.2",
     "feathers-hooks": "^1.7.0",
     "feathers": "^2.0.2",
     "istanbul": "^1.1.0-alpha.1",
